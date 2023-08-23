@@ -48,6 +48,3 @@ function draw() {
         }
     }
 }
-function preload(){
-    alarma = loadSound("nuclear_alarm.mp3")
-}
